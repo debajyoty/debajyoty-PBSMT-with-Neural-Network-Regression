@@ -8,4 +8,4 @@ https://huggingface.co/DebajyotyBanik/PBSMT-with-Neural-Network-Regression/tree/
 
 # Cite
 
-Neural Network Influenced Optimised Decoder for Statistical Machine Translation, DEBAJYOTY BANIK, RAHUL PAUL, RAJKUMAR SINGH RATHORE, RUTVIJ H. JHAVERI, ACM Transactions on Asian and Low-Resource Language Information Processing 2023
+Neural Network Influenced Optimised Decoder for Statistical Machine Translation, DEBAJYOTY BANIK, RAHUL PAUL, RAJKUMAR SINGH RATHORE, RUTVIJ H. JHAVERI, ACM Transactions on Asian and Low-Resource Language Information Processing 2024
